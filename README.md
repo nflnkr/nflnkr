@@ -1,4 +1,5 @@
-### Hi there 👋
+### Frontend dev 🤷‍♂️
+Telegram: t.me/spxtf
 
 <!--
 **nflnkr/nflnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
