@@ -1,7 +1,7 @@
 ### Frontend dev 🤷‍♂️
 Telegram: https://t.me/spxtf
 
-### Pet project: https://github.com/nflnkr/triptracker
+Pet project: https://github.com/nflnkr/triptracker
 
 <!--
 **nflnkr/nflnkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
